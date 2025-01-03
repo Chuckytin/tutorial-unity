@@ -1,0 +1,74 @@
+# === Unity ===
+
+# Carpetas y archivos temporales generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Configuración local de Visual Studio y Rider
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos de caché de Unity
+*.pidb.meta
+*.pdb.meta
+*.mdb
+*.opendb
+*.VC.db
+
+# Configuraciones de usuario local
+/Assets/**/asset.meta
+/Assets/**/meta
+/Assets/**/meta.meta
+
+# TextMeshPro auto-generado
+[Tt]ext[Mm]esh[Pp]ro/Resources/TMP Settings.asset
+
+# Archivos relacionados con la versión específica de Unity
+[Uu]ser[Ss]ettings/
+
+# Builds específicas
+*.apk
+*.aab
+*.unitypackage
+
+# === Sistema Operativo ===
+# Archivos temporales de macOS
+.DS_Store
+.DS_Store?
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# === Otros ===
+# Logs y análisis
+*.log
+*.stackdump
+
+# Archivos de lock
+*.lock
+
+# === Licencias y claves privadas (nunca subir) ===
+*.key
+*.pem
+
+# === Ignorar archivos propios ===
+# Añade aquí archivos o carpetas personalizadas para tu proyecto
+# Ejemplo: 
+# /MyPrivateFolder/
